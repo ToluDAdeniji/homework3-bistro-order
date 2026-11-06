@@ -1,0 +1,44 @@
+body {
+    background: lightblue;
+    font-family: Arial;
+    margin: 23px;
+    color: #23465c;
+}
+
+form, .insight-card, .receipt-card {
+    background: #e5f5ff;
+    padding: 10px;
+    margin-bottom: 13px;
+    border: 2px solid #87b9db;
+}
+
+
+button {
+    background: #81c5ed;
+    padding: 9px 17px;
+    border: 1px solid #569ac4;
+    cursor: pointer;
+}
+
+select {
+    padding: 5px;
+    margin: 13px;
+}
+
+fieldset {
+    margin: 13px 0;
+    border: 1px solid #87b9db;
+}
+
+
+h3 {
+    color: #28618a;
+}
+
+.forget-order {
+    margin-top: 19px;
+}
+
+a {
+    color: #246caa;
+}
